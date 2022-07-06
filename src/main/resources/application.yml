@@ -1,0 +1,7 @@
+app:
+  firebase-configuration-file: firebaseconfig/fcm_service_account.json
+server:
+  port: 8083
+fcm:
+  token: AAAAuqYGtzQ:APA91bH0JzUHQmVhkeqIse4thWuN1ZYm7u_skhFsWDHsxi4XGVIIv0D4wsAdkp8hqFnPN6IGLP2QQQMRnqORUbrMyMgJnoZCCoUPGi35abce_oNoXoyvSyOdMvzwmc6IVshxmL1lB4Cp
+  url: https://fcm.googleapis.com/fcm/send
